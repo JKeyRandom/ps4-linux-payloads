@@ -1,4 +1,4 @@
-# ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=PlayStation) Linux Payloads for FW 5.05 - 12.02
+# ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=PlayStation) Linux Payloads for FW 5.05 - 12.52
 (Southbridge: Aeolia & Belize(2) & Baikal)
 
 **Linux-Payloads** kexec for PlayStation 4.
@@ -23,6 +23,7 @@ you’ll find Linux payloads for your firmware, along with some extra payloads. 
 *   FW 11.02 ✅ 
 *   FW 11.50 / 11.52 ✅
 *   FW 12.00 / 12.02 ✅ 
+*   FW 12.50 / 12.52 ✅
 
 
 ## New

@@ -1,18 +1,19 @@
-all: fw505/payload-505-1gb.bin fw505/payload-505-2gb.bin fw505/payload-505-3gb.bin fw505/payload-505-4gb.bin fw505/payload-505-1gb-pro.bin fw505/payload-505-2gb-pro.bin fw505/payload-505-3gb-pro.bin fw505/payload-505-4gb-pro.bin fw672/payload-672-1gb.bin fw672/payload-672-2gb.bin fw672/payload-672-3gb.bin fw672/payload-672-4gb.bin fw672/payload-672-1gb-pro.bin fw672/payload-672-2gb-pro.bin fw672/payload-672-3gb-pro.bin fw672/payload-672-4gb-pro.bin fw700/payload-700-1gb.bin fw700/payload-700-2gb.bin fw700/payload-700-3gb.bin fw700/payload-700-4gb.bin fw700/payload-700-1gb-pro.bin fw700/payload-700-2gb-pro.bin fw700/payload-700-3gb-pro.bin fw700/payload-700-4gb-pro.bin fw900/payload-900-1gb.bin fw900/payload-900-2gb.bin fw900/payload-900-3gb.bin fw900/payload-900-4gb.bin fw900/payload-900-1gb-pro.bin fw900/payload-900-2gb-pro.bin fw900/payload-900-3gb-pro.bin fw900/payload-900-4gb-pro.bin fw903/payload-903-1gb.bin fw903/payload-903-2gb.bin fw903/payload-903-3gb.bin fw903/payload-903-4gb.bin fw903/payload-903-1gb-pro.bin fw903/payload-903-2gb-pro.bin fw903/payload-903-3gb-pro.bin fw903/payload-903-4gb-pro.bin fw960/payload-960-1gb.bin fw960/payload-960-2gb.bin fw960/payload-960-3gb.bin fw960/payload-960-4gb.bin fw960/payload-960-1gb-pro.bin fw960/payload-960-2gb-pro.bin fw960/payload-960-3gb-pro.bin fw960/payload-960-4gb-pro.bin fw1000/payload-1000-1gb.bin fw1000/payload-1000-2gb.bin fw1000/payload-1000-3gb.bin fw1000/payload-1000-4gb.bin fw1000/payload-1000-1gb-pro.bin fw1000/payload-1000-2gb-pro.bin fw1000/payload-1000-3gb-pro.bin fw1000/payload-1000-4gb-pro.bin fw1050/payload-1050-1gb.bin fw1050/payload-1050-2gb.bin fw1050/payload-1050-3gb.bin fw1050/payload-1050-4gb.bin fw1050/payload-1050-1gb-pro.bin fw1050/payload-1050-2gb-pro.bin fw1050/payload-1050-3gb-pro.bin fw1050/payload-1050-4gb-pro.bin fw1100/payload-1100-1gb.bin fw1100/payload-1100-2gb.bin fw1100/payload-1100-3gb.bin fw1100/payload-1100-4gb.bin fw1100/payload-1100-1gb-pro.bin fw1100/payload-1100-2gb-pro.bin fw1100/payload-1100-3gb-pro.bin fw1100/payload-1100-4gb-pro.bin fw1102/payload-1102-1gb.bin fw1102/payload-1102-2gb.bin fw1102/payload-1102-3gb.bin fw1102/payload-1102-4gb.bin fw1102/payload-1102-1gb-pro.bin fw1102/payload-1102-2gb-pro.bin fw1102/payload-1102-3gb-pro.bin fw1102/payload-1102-4gb-pro.bin fw1150/payload-1150-1gb.bin fw1150/payload-1150-2gb.bin fw1150/payload-1150-3gb.bin fw1150/payload-1150-4gb.bin fw1150/payload-1150-1gb-pro.bin fw1150/payload-1150-2gb-pro.bin fw1150/payload-1150-3gb-pro.bin fw1150/payload-1150-4gb-pro.bin fw1200/payload-1200-1gb.bin fw1200/payload-1200-2gb.bin fw1200/payload-1200-3gb.bin fw1200/payload-1200-4gb.bin fw1200/payload-1200-1gb-pro.bin fw1200/payload-1200-2gb-pro.bin fw1200/payload-1200-3gb-pro.bin fw1200/payload-1200-4gb-pro.bin fw505/payload-505-1gb-baikal.bin fw505/payload-505-2gb-baikal.bin fw505/payload-505-3gb-baikal.bin fw505/payload-505-4gb-baikal.bin fw505/payload-505-1gb-pro-baikal.bin fw505/payload-505-2gb-pro-baikal.bin fw505/payload-505-3gb-pro-baikal.bin fw505/payload-505-4gb-pro-baikal.bin fw672/payload-672-1gb-baikal.bin fw672/payload-672-2gb-baikal.bin fw672/payload-672-3gb-baikal.bin fw672/payload-672-4gb-baikal.bin fw672/payload-672-1gb-pro-baikal.bin fw672/payload-672-2gb-pro-baikal.bin fw672/payload-672-3gb-pro-baikal.bin fw672/payload-672-4gb-pro-baikal.bin fw700/payload-700-1gb-baikal.bin fw700/payload-700-2gb-baikal.bin fw700/payload-700-3gb-baikal.bin fw700/payload-700-4gb-baikal.bin fw700/payload-700-1gb-pro-baikal.bin fw700/payload-700-2gb-pro-baikal.bin fw700/payload-700-3gb-pro-baikal.bin fw700/payload-700-4gb-pro-baikal.bin fw900/payload-900-1gb-baikal.bin fw900/payload-900-2gb-baikal.bin fw900/payload-900-3gb-baikal.bin fw900/payload-900-4gb-baikal.bin fw900/payload-900-1gb-pro-baikal.bin fw900/payload-900-2gb-pro-baikal.bin fw900/payload-900-3gb-pro-baikal.bin fw900/payload-900-4gb-pro-baikal.bin fw903/payload-903-1gb-baikal.bin fw903/payload-903-2gb-baikal.bin fw903/payload-903-3gb-baikal.bin fw903/payload-903-4gb-baikal.bin fw903/payload-903-1gb-pro-baikal.bin fw903/payload-903-2gb-pro-baikal.bin fw903/payload-903-3gb-pro-baikal.bin fw903/payload-903-4gb-pro-baikal.bin fw960/payload-960-1gb-baikal.bin fw960/payload-960-2gb-baikal.bin fw960/payload-960-3gb-baikal.bin fw960/payload-960-4gb-baikal.bin fw960/payload-960-1gb-pro-baikal.bin fw960/payload-960-2gb-pro-baikal.bin fw960/payload-960-3gb-pro-baikal.bin fw960/payload-960-4gb-pro-baikal.bin fw1000/payload-1000-1gb-baikal.bin fw1000/payload-1000-2gb-baikal.bin fw1000/payload-1000-3gb-baikal.bin fw1000/payload-1000-4gb-baikal.bin fw1000/payload-1000-1gb-pro-baikal.bin fw1000/payload-1000-2gb-pro-baikal.bin fw1000/payload-1000-3gb-pro-baikal.bin fw1000/payload-1000-4gb-pro-baikal.bin fw1050/payload-1050-1gb-baikal.bin fw1050/payload-1050-2gb-baikal.bin fw1050/payload-1050-3gb-baikal.bin fw1050/payload-1050-4gb-baikal.bin fw1050/payload-1050-1gb-pro-baikal.bin fw1050/payload-1050-2gb-pro-baikal.bin fw1050/payload-1050-3gb-pro-baikal.bin fw1050/payload-1050-4gb-pro-baikal.bin fw1100/payload-1100-1gb-baikal.bin fw1100/payload-1100-2gb-baikal.bin fw1100/payload-1100-3gb-baikal.bin fw1100/payload-1100-4gb-baikal.bin fw1100/payload-1100-1gb-pro-baikal.bin fw1100/payload-1100-2gb-pro-baikal.bin fw1100/payload-1100-3gb-pro-baikal.bin fw1100/payload-1100-4gb-pro-baikal.bin fw1102/payload-1102-1gb-baikal.bin fw1102/payload-1102-2gb-baikal.bin fw1102/payload-1102-3gb-baikal.bin fw1102/payload-1102-4gb-baikal.bin fw1102/payload-1102-1gb-pro-baikal.bin fw1102/payload-1102-2gb-pro-baikal.bin fw1102/payload-1102-3gb-pro-baikal.bin fw1102/payload-1102-4gb-pro-baikal.bin fw1150/payload-1150-1gb-baikal.bin fw1150/payload-1150-2gb-baikal.bin fw1150/payload-1150-3gb-baikal.bin fw1150/payload-1150-4gb-baikal.bin fw1150/payload-1150-1gb-pro-baikal.bin fw1150/payload-1150-2gb-pro-baikal.bin fw1150/payload-1150-3gb-pro-baikal.bin fw1150/payload-1150-4gb-pro-baikal.bin fw1200/payload-1200-1gb-baikal.bin fw1200/payload-1200-2gb-baikal.bin fw1200/payload-1200-3gb-baikal.bin fw1200/payload-1200-4gb-baikal.bin fw1200/payload-1200-1gb-pro-baikal.bin fw1200/payload-1200-2gb-pro-baikal.bin fw1200/payload-1200-3gb-pro-baikal.bin fw1200/payload-1200-4gb-pro-baikal.bin
+FIRMWARES = 505 672 700 900 903 960 1000 1050 1100 1102 1150 1200 1250
+SIZES     = 1gb 2gb 3gb 4gb
+# This uses a nested loop style logic to generate the file names automatically
+PAYLOADS = $(foreach fw,$(FIRMWARES), \
+             $(foreach sz,$(SIZES), \
+               fw$(fw)/payload-$(fw)-$(sz).bin \
+               fw$(fw)/payload-$(fw)-$(sz)-pro.bin \
+               fw$(fw)/payload-$(fw)-$(sz)-baikal.bin \
+               fw$(fw)/payload-$(fw)-$(sz)-pro-baikal.bin \
+             ) \
+           )
+
+all: $(PAYLOADS)
 
 clean:
-	rm -f fw505/*
-	rm -f fw672/*
-	rm -f fw700/*
-	rm -f fw900/*
-	rm -f fw903/*
-	rm -f fw960/*
-	rm -f fw1000/*
-	rm -f fw1050/*
-	rm -f fw1100/*
-	rm -f fw1102/*
-	rm -f fw1150/*
-	rm -f fw1200/* ;
+	rm -f fw*/*
 
 	cd ps4-kexec-505; make clean
 	cd ps4-kexec-505-pro; make clean
@@ -62,6 +63,10 @@ clean:
 	cd ps4-kexec-1200-pro; make clean
 	cd ps4-kexec-1200-baikal; make clean
 	cd ps4-kexec-1200-pro-baikal; make clean
+	cd ps4-kexec-1250; make clean
+	cd ps4-kexec-1250-pro; make clean
+	cd ps4-kexec-1250-baikal; make clean
+	cd ps4-kexec-1250-pro-baikal; make clean
 	cd ../lib/; make clean
 
 ../lib/lib.a:
@@ -786,6 +791,65 @@ fw1200/payload-1200-3gb-pro-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-120
 
 fw1200/payload-1200-4gb-pro-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-1200-pro-baikal/kexec.bin
 	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_00__ -DPS4_12_00 -DVRAM_GB_DEFAULT=4 main-baikal.c -Wl,-gc-sections -o fw1200/payload-1200-4gb-pro-baikal.elf -fPIE -ffreestanding
+
+ps4-kexec-1250/kexec.bin:
+	cd ps4-kexec-1250; make
+
+fw1250/payload-1250-1gb.elf: ../lib/lib.a main.c ps4-kexec-1250/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 main.c -Wl,-gc-sections -o fw1250/payload-1250-1gb.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-2gb.elf: ../lib/lib.a main.c ps4-kexec-1250/kexec.bin
+	 gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=2 main.c -Wl,-gc-sections -o fw1250/payload-1250-2gb.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-3gb.elf: ../lib/lib.a main.c ps4-kexec-1250/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=3 main.c -Wl,-gc-sections -o fw1250/payload-1250-3gb.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-4gb.elf: ../lib/lib.a main.c ps4-kexec-1250/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=4 main.c -Wl,-gc-sections -o fw1250/payload-1250-4gb.elf -fPIE -ffreestanding
+ps4-kexec-1200-pro/kexec.bin:
+	cd ps4-kexec-1200-pro; make
+
+fw1250/payload-1250-1gb-pro.elf: ../lib/lib.a main.c ps4-kexec-1250-pro/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 main.c -Wl,-gc-sections -o fw1250/payload-1250-1gb-pro.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-2gb-pro.elf: ../lib/lib.a main.c ps4-kexec-1250-pro/kexec.bin
+	 gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=2 main.c -Wl,-gc-sections -o fw1250/payload-1250-2gb-pro.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-3gb-pro.elf: ../lib/lib.a main.c ps4-kexec-1250-pro/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=3 main.c -Wl,-gc-sections -o fw1250/payload-1250-3gb-pro.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-4gb-pro.elf: ../lib/lib.a main.c ps4-kexec-1250-pro/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=4 main.c -Wl,-gc-sections -o fw1250/payload-1250-4gb-pro.elf -fPIE -ffreestanding
+
+ps4-kexec-1250-baikal/kexec.bin:
+	cd ps4-kexec-1250-baikal; make
+
+fw1250/payload-1250-1gb-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-1250-baikal/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 main-baikal.c -Wl,-gc-sections -o fw1250/payload-1250-1gb-baikal.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-2gb-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-1250-baikal/kexec.bin
+	 gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=2 main-baikal.c -Wl,-gc-sections -o fw1250/payload-1250-2gb-baikal.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-3gb-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-1250-baikal/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=3 main-baikal.c -Wl,-gc-sections -o fw1250/payload-1250-3gb-baikal.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-4gb-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-1250-baikal/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=4 main-baikal.c -Wl,-gc-sections -o fw1250/payload-1250-4gb-baikal.elf -fPIE -ffreestanding
+
+ps4-kexec-1250-pro-baikal/kexec.bin:
+	cd ps4-kexec-1250-pro-baikal; make
+
+fw1250/payload-1250-1gb-pro-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-1250-pro-baikal/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 main-baikal.c -Wl,-gc-sections -o fw1250/payload-1250-1gb-pro-baikal.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-2gb-pro-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-1250-pro-baikal/kexec.bin
+	 gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=2 main-baikal.c -Wl,-gc-sections -o fw1250/payload-1250-2gb-pro-baikal.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-3gb-pro-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-1250-pro-baikal/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=3 main-baikal.c -Wl,-gc-sections -o fw1250/payload-1250-3gb-pro-baikal.elf -fPIE -ffreestanding
+
+fw1250/payload-1250-4gb-pro-baikal.elf: ../lib/lib.a main-baikal.c ps4-kexec-1250-pro-baikal/kexec.bin
+	gcc -isystem ../freebsd-headers -nostdinc -nostdlib -fno-stack-protector -static ../lib/lib.a -D__12_50__ -DPS4_12_50 -DVRAM_GB_DEFAULT=4 main-baikal.c -Wl,-gc-sections -o fw1250/payload-1250-4gb-pro-baikal.elf -fPIE -ffreestanding
 
 %.bin: %.elf
 	objcopy $< --only-section .text --only-section .data --only-section .bss --only-section .rodata -O binary $@

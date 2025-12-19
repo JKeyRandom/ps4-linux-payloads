@@ -34,7 +34,11 @@
 #ifdef __12_00__
 #include "1200.h"
 #else
+#ifdef __12_50__
+#include "1250.h"
+#else
 #error "unsupported firmware"
+#endif
 #endif
 #endif
 #endif
