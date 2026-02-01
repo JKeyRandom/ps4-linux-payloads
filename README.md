@@ -1,3 +1,8 @@
+# Notice
+
+This repository is an unmodified fork of https://github.com/ArabPixel/ps4-linux-payloads
+It exists as a preserved copy / backup.
+
 # ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=PlayStation) Linux Payloads for FW 5.05 - 13.02
 (Southbridge: Aeolia & Belize(2) & Baikal)
 
